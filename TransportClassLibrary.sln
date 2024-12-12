@@ -7,6 +7,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransportClassLibrary", "Tr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransportConsoleApp", "..\TransportConsoleApp\TransportConsoleApp.csproj", "{BD1E11B9-B838-437B-A9F7-AD23714DB6AC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E909B362-9B85-408D-AF34-BC4F9E04904D}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransportTest", "..\TransportTest\TransportTest.csproj", "{A3547F8C-30AB-4CE7-A548-70D6E338EC5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +28,10 @@ Global
 		{BD1E11B9-B838-437B-A9F7-AD23714DB6AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD1E11B9-B838-437B-A9F7-AD23714DB6AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD1E11B9-B838-437B-A9F7-AD23714DB6AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3547F8C-30AB-4CE7-A548-70D6E338EC5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3547F8C-30AB-4CE7-A548-70D6E338EC5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3547F8C-30AB-4CE7-A548-70D6E338EC5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3547F8C-30AB-4CE7-A548-70D6E338EC5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
